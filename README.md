@@ -101,12 +101,5 @@ Follow these steps to verify that the scripts work as expected:
 
 ---
 
-## **Future Improvements**
-- Add notifications (e.g., email or Slack) for backup and restoration events.
-- Schedule periodic backups using `cron`.
-- Integrate with AWS S3 lifecycle policies for cost optimization.
-
----
-
 ## **License**
 This project is open-source and available under the MIT License.
